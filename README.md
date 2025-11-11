@@ -4,18 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&height=20)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white&height=20)
 
-### Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gaganmanku96/)
-
-
-Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
-
-### News Articles
-
-<img src="./resources/image.png" alt="News Article 1" width="400" height="100"/>
-<img src="./resources/image-1.png" alt="News Article 2" width="400" height="100"/>
-<img src="./resources/image-2.png" alt="News Article 3" width="400" height="100"/>
-<img src="./resources/image-3.png" alt="News Article 4" width="400" height="250"/>
-
 ### Screenshots
 
 <table>
