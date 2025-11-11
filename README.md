@@ -1,4 +1,5 @@
-# Find Missing Person using AI
+# FaceRecognitionAndSurveillanceSystemForLostPersons
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white&height=20)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white&height=20)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&height=20)
