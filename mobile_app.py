@@ -1,15 +1,16 @@
-import uuid
-import json
-
 import streamlit as st
 import uuid
 import json
 import numpy as np
 
+if "login_status" not in st.session_state:
+    st.session_state["login_status"] = True
+if "user" not in st.session_state:
+    st.session_state["user"] = "Guest"
+
 from pages.helper import db_queries
 from pages.helper.data_models import PublicSubmissions
 from pages.helper.utils import image_obj_to_numpy, extract_face_mesh_landmarks
-from pages.helper.streamlit_helpers import require_login
 
 st.set_page_config("Mobile UI", initial_sidebar_state="collapsed")
 
